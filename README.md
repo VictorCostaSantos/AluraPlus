@@ -1,5 +1,5 @@
 
-<h1 align="center">:movie_camera: :popcorn: Alura+</h1>
+<h1 align="center">:movie_camera::popcorn: Alura+</h1>
 
 <div>
   <p align="center">
@@ -18,9 +18,8 @@ Nesse Projeto foi desenvolvido uma página semelhante a Netflix mas com a temát
 
   <h4 align="center" style = "color: #f34444;"> <b>Clique sobre a imagem para ir para o site </b>:eyes:  
   </h4>
-  <a target="_blank" href = "https://alura-midi-349r.vercel.app/"><img alt="Robotron" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjBlOTU0NDNkOTRkMzEzNzJhOTNjZmRjMTRkZDg4MzI1YTBhY2UyNSZjdD1n/MCQ3baicYXWS1fzDqE/giphy.gif"></a>
 
-
+  <a  target="_blank" href = "https://alura-plus-sigma-olive.vercel.app/"><img  alt="Robotron" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjBlOTU0NDNkOTRkMzEzNzJhOTNjZmRjMTRkZDg4MzI1YTBhY2UyNSZjdD1n/MCQ3baicYXWS1fzDqE/giphy.gif"></a>
 
 </hr>
   
